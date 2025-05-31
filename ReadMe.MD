@@ -6,7 +6,7 @@
 <br>
 
 
-### 2. Download
+Download
 
 ```
 https://github.com/Shamim1977/LWGCalculator-Release
