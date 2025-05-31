@@ -6,8 +6,8 @@
 <br>
 
 
-Download
+Downloads
 
 ```
-https://github.com/Shamim1977/LWGCalculator-Release
+https://github.com/Shamim1977/LWGCalculator-Release/releases/tag/v1.0.0
 ```
